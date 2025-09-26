@@ -1,0 +1,12 @@
+# Virtual environment
+myenv/
+venv/
+
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+
+# Vector database or embeddings storage
+# vectorstore/
